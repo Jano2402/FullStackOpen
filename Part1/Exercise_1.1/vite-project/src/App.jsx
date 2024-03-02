@@ -63,5 +63,3 @@ const Total = (props) => {
 }
 
 export default App
-
-
